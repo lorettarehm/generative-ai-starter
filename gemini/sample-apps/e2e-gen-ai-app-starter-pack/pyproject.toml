@@ -24,7 +24,7 @@ grpcio = "1.64.1"
 langgraph = "^0.2.21"
 uvicorn = {extras = ["standard"], version = "^0.30.5"}
 immutabledict = "^4.2.0"
-langchain-core = "^0.3.9"
+langchain-core = "^0.3.55"
 
 
 [tool.poetry.group.dev.dependencies]
